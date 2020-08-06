@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="Shopping List">5fdb80942fa618102d25e33df699b655</applet_launcher>
+        <icon display_value="Home Shopping List">5bdb80942fa618102d25e33df699b656</icon>
+        <label>Shopping List</label>
+        <roles>public</roles>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-06 09:16:53</sys_created_on>
+        <sys_id>1bdb80942fa618102d25e33df699b656</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Shopping List</sys_name>
+        <sys_package display_value="Shopping List" source="x_475667_shopping">a04ac8542fa618102d25e33df699b623</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">a04ac8542fa618102d25e33df699b623</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_1bdb80942fa618102d25e33df699b656</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-06 09:16:53</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>
